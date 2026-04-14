@@ -1,0 +1,32 @@
+/* Wider note content and Mermaid diagrams for DB solidaris */
+
+:root {
+  --file-line-width: 90%;
+}
+
+.markdown-reading-view .markdown-preview-sizer,
+.markdown-source-view.mod-cm6 .cm-sizer,
+.is-live-preview .cm-sizer {
+  max-width: 90% !important;
+  width: 90% !important;
+}
+
+.markdown-rendered .mermaid,
+.markdown-preview-view .mermaid,
+.cm-embed-block .mermaid {
+  max-width: 100% !important;
+  width: 100% !important;
+  overflow-x: auto;
+  display: block;
+}
+
+.markdown-rendered .mermaid svg,
+.markdown-preview-view .mermaid svg {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Optional: slightly reduce side margins in reading mode */
+.markdown-reading-view {
+  --file-margins: 10px;
+}

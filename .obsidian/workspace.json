@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "43ee0b884fc13fc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb1d9ccfb9293a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aad3b54222b9ede",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f80cda7e1e384fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a407be6dc23cce",
+        "type": "tabs",
+        "dimension": 27.684210526315788,
+        "children": [
+          {
+            "id": "c251df222253faf2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb8f010b4e5daded",
+        "type": "tabs",
+        "dimension": 72.3157894736842,
+        "children": [
+          {
+            "id": "aeb20e02557ef8bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "097d703174d329fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#yesyoucan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "0d2c5d4f285a3265",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "1e619260f1af692c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cada17ad56d1f81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f01dc31012c2b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software/Installation Linux ubuntu sur mac M1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Installation Linux ubuntu sur mac M1"
+            }
+          },
+          {
+            "id": "3d503bcaf149d2d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "13253071dcfe732f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "f6ba0fb1d09417e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software/Installation Linux ubuntu sur mac M1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Installation Linux ubuntu sur mac M1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "5aad3b54222b9ede",
+  "lastOpenFiles": [
+    "02 - Procedures/Procédure - Accueil d'un membre qui attend un enfant.md",
+    "02 - Procedures/Index - Procédures.md",
+    "02 - Procedures/Procédure - Accueil général d'un membre.md",
+    "01 - Prioritaire/Simulation entretien - Naissance d'un enfant.md",
+    "01 - Prioritaire/Simulations complètes - Ziekenfondsconsulent.md",
+    "01 - Prioritaire/Top cas fréquents - Réponses rapides.md",
+    "01 - Prioritaire/Top vocabulaire à mémoriser.md",
+    "00 - Index/Solidaris Vlaanderen - Index.md",
+    "03 - Lexique/Index-Vocabulaire.md",
+    "03 - Lexique/Lexique NL-FR Solidaris.md",
+    "03 - Lexique/ONEM-vs-RVA-Flandres.md",
+    "03 - Lexique/TRADUCTION-FR-NL-COMPLET.md",
+    "03 - Lexique/Vocabulaire-Specialise-Flandres.md",
+    "06 - Emails types/Emails types - Incapacité de travail.md",
+    "06 - Emails types/Emails types - Hospitalisation.md",
+    "06 - Emails types/Emails types - Changement administratif.md",
+    "04 - Services et avantages/Services - Grossesse, naissance et accompagnement.md",
+    "05 - Situations de vie/Dossier, contact et outils numériques - Synthèse entretien.md",
+    "05 - Situations de vie/Cas membres - Bloc 3, administratif, outils et affiliation.md",
+    "05 - Situations de vie/Cas membres - Bloc 2, services et accompagnement.md",
+    "05 - Situations de vie/Cas membres - Bloc 1, situations fréquentes.md",
+    "05 - Situations de vie/Aide à domicile et soutien social - Synthèse entretien.md",
+    "02 - Procedures/Procédure - Optique.md",
+    "02 - Procedures/Procédure - Incapacité de travail.md",
+    "01 - Prioritaire/Questions d'entretien probables - Ziekenfondsconsulent.md",
+    "01 - Prioritaire/Guide oral - Réponses d'entretien.md",
+    "Attachments/Aanvraagformulier%20inschrijving%20kind%20als%20persoon%20ten%20laste%20304.pdf",
+    "Sans titre.base",
+    "Clippings",
+    "Sans titre.canvas",
+    "Sans titre 1.base",
+    "Template",
+    "Server Docs",
+    "zapp.yaml",
+    "MAINFRAME/Cobol/6 - Program Structure",
+    "MAINFRAME/Cobol/5 - File Handling",
+    "MAINFRAME/Cobol/4 - Table Handling",
+    "_IMG/image.webp",
+    "_IMG/image-1.webp",
+    "_IMG/Capture d’écran 2025-02-28 à 15.58.34.webp",
+    "Users/keno/Documents/MyVault/_IMG/image.webp"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "theme": "system",
+  "cssTheme": "PLN",
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "checkboxes",
+    "folders",
+    "highlighters",
+    "wide-content"
+  ]
+}
